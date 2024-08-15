@@ -1,0 +1,220 @@
+﻿BEGIN
+Date: 08/13/2024
+Class: Theory of Media Arts 
+Period: 1
+Title: Set Decoration
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Locations Quiz
+20 Minutes
+* Set Decoration Intro
+10 Minutes
+* PD Storage Room Tour
+30 Minutes
+* Set Decoration Exercise
+END
+BEGIN
+Date: 08/13/2024
+Class: Film Studies
+Period: 7
+Title: White Heat
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes 
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+END
+BEGIN
+Date: 08/15/2024
+Class: Applied Media Art
+Period: 5
+Title: Short Film 3 Table Read
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Finalize Short Film Script
+60 Minutes
+* Pre-Production
+END
+BEGIN
+Date: 01/30/2024
+Class: Theory of Media Arts 
+Period: 2
+Title: Set Decoration
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Locations Quiz
+20 Minutes
+* Set Decoration Intro
+10 Minutes
+* PD Storage Room Tour
+30 Minutes
+* Set Decoration Exercise
+END
+BEGIN
+Date: 01/30/2024
+Class: Film Studies
+Period: 4
+Title: It Happened One Night
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes 
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+END
+BEGIN
+Date: 01/31/2024
+Class: Film Studies
+Period: 5
+Title: Neo-Noir
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes 
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+END
+BEGIN
+Date: 01/31/2024
+Class: Applied Media Art
+Period: 7
+Title: Short Film 3 Table Read
+5 Minutes
+* Greetings/Prayer
+75 Minutes
+* Production Design Tests
+END
+BEGIN
+Date: 01/31/2024
+Class: Theory of Media Arts 
+Period: 1
+Title: Costumes/Hair and Makeup
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Costumes Introduction
+20 Minutes 
+* Costumes Exercise
+10 Minutes
+* Hair/Makeup Exercise
+30 Minutes
+* Shoot Hair/Makeup Scene
+END
+BEGIN
+Date: 02/01/2024
+Class: Film Studies
+Period: 4 
+Title: Film History 1800s-1940s
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes 
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+END
+BEGIN
+Date: 02/01/2024
+Class: Theory of Media Arts 
+Period: 2
+Title: Costumes/Hair and Makeup
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Costumes Introduction
+20 Minutes 
+* Costumes Exercise
+10 Minutes
+* Hair/Makeup Exercise
+30 Minutes
+* Shoot Hair/Makeup Scene
+END
+BEGIN
+Date: 02/02/2024
+Class: Film Studies
+Period: 5
+Title: Neo-Noir
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes 
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+15 Minutes
+* Film Watching
+10 Minutes
+* Discussion/Reflection
+END
+Date: 02/02/2024
+Class: Applied Media Art
+Period: 7
+Title: Short Film 3 Table Read
+5 Minutes
+* Greetings/Prayer
+75 Minutes
+* Production Day 1
+END
+BEGIN
+Date: 02/02/2024
+Class: Theory of Media Arts 
+Period: 1
+Title: Director/Production Designer Relationship
+Body:
+5 Minutes
+* Greetings/Prayer
+15 Minutes
+* Introduction
+30 Minutes 
+* Demonstration
+30 Minutes
+* Mood Board Assignment
+END
